@@ -1,2 +1,6 @@
-# TeamLisa
-Documentation for a motorized wheelchair arm, made for 6.811 (PPAT) at MIT in Fall 2016 
+# Team Lisa
+Welcome to the Team Lisa project! This was a project for Principles and Practices of Assistive Technology (PPAT) in Fall 2016 at MIT. We made a motorized wheelchair controller mount for our client, Lisa Belyea. She lives at the Boston Home, a center for people with progressive neurological diseases, and has Multiple Sclerosis. With her old controller mount, she would often bump into sinks and tables because the controller was difficult to push out of the way and jutted out, preventing her from getting as close as she wanted. She wanted a method to move the mount out of the way easily so that she could access sinks and tables. Our solution was to create a motorized controller mount, which uses a DC Gear Motor and a microcontroller (Arduino UNO) so that Lisa can move the mount with the push of a button. One button press moves the mount away from her, and another press moves it back in front of her. You can find all the relevant documentation for this project on the Wiki page, including code and design files. We hope that this Wiki will allow anyone to learn more about how this device works and to create their own such device.
+
+You can watch a video about our device here: https://vimeo.com/195616843
+
+Authors: Suma Anand, Abhinav Gandhi, Nora Kelsall, Mark Vrablic
